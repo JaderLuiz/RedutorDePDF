@@ -10,4 +10,4 @@ Instruções:
 
 2- Abra o arquivo "Redutor de PDF.bat" e siga as instruções na tela
 
-3 - (Opcional) Abra o arquivo "Instalar.bat" para criar um atalho na área de trabalho
+3 - (Opcional) Abra o arquivo "Instalar.bat" para instalar o programa criar um atalho na área de trabalho
